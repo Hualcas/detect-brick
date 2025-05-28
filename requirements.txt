@@ -1,0 +1,8 @@
+torch
+ultralytics
+opencv-python
+fpdf
+flask
+flask-login
+mongoengine
+gdown
