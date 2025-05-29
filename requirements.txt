@@ -2,7 +2,8 @@ torch
 ultralytics
 opencv-python
 fpdf
-flask
+Flask==2.2.5
+
 flask-login
 #mongoengine
 gdown
