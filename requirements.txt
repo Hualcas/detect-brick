@@ -4,6 +4,8 @@ opencv-python
 fpdf
 flask
 flask-login
-mongoengine
+#mongoengine
 gdown
 gunicorn
+flask-mongoengine
+
