@@ -3,7 +3,7 @@ ultralytics
 opencv-python
 fpdf
 Flask==2.2.5
-
+flask_bcrypt
 flask-login
 #mongoengine
 gdown
