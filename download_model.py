@@ -23,7 +23,7 @@ def clonar_yolov5():
 
 def setup_entorno():
     descargar_modelo()
-    clonar_yolov5()
+    descargar_yolov5()
    
 if __name__ == '__main__':
     setup_entorno()
